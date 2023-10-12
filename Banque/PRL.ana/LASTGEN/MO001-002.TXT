@@ -1,0 +1,2 @@
+//MO001-002.TXT ANA00001 TO ANA00002
+personne_compte	IDpersonne_compte	NNR	IDpersonne_compte1	ATTENTION : la clé IDpersonne_compte1 a pour nouveau nom IDpersonne_compte
